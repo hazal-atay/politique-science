@@ -1,52 +1,34 @@
 const config = {
-  name: "Guillaume Levrier",
+  name: "Hazal Atay",
   description: {
     EN: {
-      short: `Guillaume Levrier is a political scientist working on biotechnology, currently a CNRS postdoc for the
-        <a href="https://cordis.europa.eu/project/id/951393" target="_blank">Nanobubbles ERC grant</a>. He is affiliated
-        to the <a href="http://umr-lisis.fr/membre/guillaume-levrier/" target="_blank">Laboratoire Interdisciplinaire
-          Sciences Innovations Sociétés (LISIS)</a>, and is a research associate to <a
-            href="https://www.sciencespo.fr/cevipof/en/researcher/guillaume-levrier.html"
-            target="_blank">CEVIPOF (Sciences Po)</a> and to the French National Library (BnF). `,
+      short: `Hazal Atay is a political scientist working on women's representation, gender equality, and sexual and reproductive health and rights.`,
       long: "",
     },
     FR: {
-      short: `Guillaume Levrier est un chercheur en sciences
-        politiques
-        spécialisé sur les biotechnologies, actuellement postdoc CNRS pour le <a
-          href="https://cordis.europa.eu/project/id/951393" target="_blank">projet
-          ERC Nanobubbles</a>. Il est affilié au <a
-            href="http://umr-lisis.fr/membre/guillaume-levrier/"
-            target="_blank">Laboratoire Interdisciplinaire
-          Sciences
-          Innovations Sociétés (LISIS)</a>, est associé au <a
-            href="https://www.sciencespo.fr/cevipof/fr/chercheur/guillaume-levrier.html"
-            target="_blank">CEVIPOF (Sciences Po)</a> et à la Bibliothèque nationale de
-        France (BnF).`,
+      short: `Hazal Atay est docteure en politique comparée et est actuellement chercheuse postdoctorale au Laboratoire d'évaluation interdisciplinaire des politiques publiques à Sciences Po Paris.
+      Elle est docteure associée au <a
+            href="https://www.sciencespo.fr/cevipof/fr/chercheur/hazal-atay.html"
+            target="_blank">CEVIPOF</a>.`,
       long: "",
     },
   },
   links: [
     {
       label: "twitter",
-      value: "@g_levrier",
-      url: "https://twitter.com/g_levrier",
+      value: "@hazalatay7",
+      url: "https://x.com/hazalatay7",
     },
     {
       label: "google scholar",
       value: "profile",
-      url: "https://scholar.google.com/citations?user=IRiJFNMAAAAJ&hl=en",
-    },
-    {
-      label: "pubpeer",
-      value: "profile",
-      url: "https://pubpeer.com/search?q=guillaume+levrier",
+      url: "https://scholar.google.com/citations?user=RKJSZn8AAAAJ&hl=en",
     },
     {
       label: "linked in",
       value: "profile",
-      url: "https://www.linkedin.com/in/guillaume-levrier-phd-89156838/",
+      url: "www.linkedin.com/in/hazal-atay-60550367",
     },
   ],
-  email: { name: "guillaume.levrier", domain: "politique.science" },
+  email: { name: "hazal.atay", domain: "sciencespo.fr" },
 };
